@@ -1,6 +1,6 @@
 # Remote Teaching Setup - Spring 2021
 
-This document is inspired by Sasha Rush's [setup document](https://github.com/srush/VirtualTeaching) and follows up on my [Spring 2020 setup post](). The setup is inspired by Sasha Rush and Harald Haraldsson.
+This document is inspired by Sasha Rush's [setup document](https://github.com/srush/VirtualTeaching) and follows up on my [Spring 2020 setup post](). The setup is inspired by the setups of Sasha Rush and [Harald Haraldsson](http://haraldharaldsson.com/about).
 
 Please use the [discussion board](https://github.com/lil-lab/remote-teaching-setup/discussions) for any questions, or simply [open an issue](https://github.com/lil-lab/remote-teaching-setup/issues).
 
