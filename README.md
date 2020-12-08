@@ -28,7 +28,7 @@ I also use the following existing equipment:
 
 Overall cost is around $450, not including existing items.
 
-<img src="teaching-space.png" width=600px>
+<img src="teaching-space.png" width="100%">
 
 ### Equipment Positioning
 
