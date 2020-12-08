@@ -14,13 +14,12 @@ This document is inspired by Sasha Rush's [setup document](https://github.com/sr
 - Webcam arm: [Flexible gooseneck Tripod](https://www.amazon.com/Webcam-Scissor-Adjustable-Flexible-gooseneck/dp/B08B5GSS7Z/)
 - Microphone: [Blue Yeti Nano](https://www.bluemic.com/en-us/products/yeti-nano/)
 - Headphones: [Bose Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html) (wired connection to mic)
-- Notebook iPad:
-- Attendant iPad:
 - OBS control: [Elgato Stream Deck Mini](https://www.elgato.com/en/gaming/stream-deck-mini)
 - Light: [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air)
 - Green screen: [Angler PortaScreen (Chroma Green)](https://www.bhphotovideo.com/c/product/1502655-REG/angler_pbb_cg57_background_porta_screen_chroma.html?fromDisList=y)
 - Laptop: Macbook Pro 13''
 - External monitor: Dell 27''
+- Two iPads
 
 Overall cost is likely slightly $600-700, except items that I already had like headphones, display, iPads and laptop.
 
