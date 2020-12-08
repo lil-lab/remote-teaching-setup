@@ -6,9 +6,9 @@ Please use the [discussion board](/discussions) for any questions, or simply [op
 
 ## Constraints
 
-- Interactive teaching.
-- Very small space.
-- Moderate budget.
+- Interactive teaching
+- Very limited space
+- Moderate budget
 
 ## Equipment
 
