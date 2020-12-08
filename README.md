@@ -2,7 +2,7 @@
 
 This document is inspired by Sasha Rush's [setup document](https://github.com/srush/VirtualTeaching) and follows up on my [Spring 2020 setup post](). The setup is inspired by Sasha Rush and Harald Haraldsson.
 
-Please use the [discussion board](/discussions) for any questions, or simply [open an issue](/issues).
+Please use the [discussion board](https://github.com/lil-lab/remote-teaching-setup/discussions) for any questions, or simply [open an issue](https://github.com/lil-lab/remote-teaching-setup/issues).
 
 ## Constraints
 
