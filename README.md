@@ -18,7 +18,7 @@ Please use the [discussion board](https://github.com/lil-lab/remote-teaching-set
 - Light: [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air) ($130)
 - Green screen: [Angler PortaScreen (Chroma Green)](https://www.bhphotovideo.com/c/product/1502655-REG/angler_pbb_cg57_background_porta_screen_chroma.html?fromDisList=y) ($125)
 
-I also use the following equipment that I already had:
+I also use the following existing equipment:
 
 - Webcam: [Logitech Brio](https://www.logitech.com/en-us/product/brio)
 - Headphones: [Bose Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html) (wired connection to mic)
