@@ -55,11 +55,11 @@ You will need to set the output resolution in OBS to something reasonable, ideal
 
 I use the Stream Deck mainly to quickly switch between pre-programmed scenes in OBS:
 
-<img src="deck-obs.jpeg" width=600px>
+<img src="deck-obs.jpeg" width=400px>
 
 I also use it to control the Key Light Air:
 
-<img src="deck-light.jpeg" width=600px>
+<img src="deck-light.jpeg" width=400px>
 
 I mainly use four pre-programmed scenes in OBS:
 
