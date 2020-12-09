@@ -1,4 +1,4 @@
-# Remote Teaching Setup - Spring 2021
+# Remote Teaching and Talk Recording Setup
 
 This document is inspired by [Sasha Rush's](http://rush-nlp.com/) [DIY Virtual Teaching document](https://github.com/srush/VirtualTeaching) and follows up on my [spring 2020 setup post](https://yoavartzi.com/2020/03/30/remote-teaching-setup.html). The setup is inspired by the setups of Sasha Rush and [Harald Haraldsson](http://haraldharaldsson.com/about).
 
