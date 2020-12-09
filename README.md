@@ -4,6 +4,20 @@ This document is inspired by [Sasha Rush's](http://rush-nlp.com/) [DIY Virtual T
 
 Please use the [discussion board](https://github.com/lil-lab/remote-teaching-setup/discussions) for any questions, or simply [open an issue](https://github.com/lil-lab/remote-teaching-setup/issues).
 
+  - [Constraints](#constraints)
+  - [Equipment](#equipment)
+    * [Equipment Positioning](#equipment-positioning)
+  - [Software and Services](#software-and-services)
+  - [Streaming](#streaming)
+      + [Sli.do + camera + iPad screen](#slido---camera---ipad-screen)
+      + [Sli.do + camera](#slido---camera)
+      + [Camera only](#camera-only)
+      + [Away](#away)
+    * [Class Management](#class-management)
+  - [Recording Talks](#recording-talks)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Constraints
 
 - Interactive teaching
@@ -97,3 +111,7 @@ A simple placeholder scene.
 ### Class Management
 
 I use Attendant for Zoom on a separate (older) iPad to monitor the class. Attendant provides a significantly more comfortable way to manage hand raising and video feeds. For example, you can easily create a flow to pass the focus to a student asking a question (e.g., ask to unmute and start video, spotlight their video, lower their hand, un-spotlight and mute). I ask all students to turn their video on, which is easy to quickly glance it on the separate iPad. It also reduces the CPU load on my main computer, because the Attendant runs on a separate iPad. It does mean a separate Zoom connection is opened on the same wireless network, but I didn't notice it creates any issues.
+
+## Recording Talks
+
+The above setup is optimized for streaming class lectures. I use a modified version of it to record talks. For example, I recorded my [EMNLP SpLU 2020 workshop talk](https://youtu.be/oF-jLbm-oyI) this way. While I think you can record with OBS, I actually find dedicated recording software to be more flexible. Recently, I am using [Telestream's ScreenFlow](http://www.telestream.net/screenflow/overview.htm). I used [Techsmith's Camtasia](https://www.techsmith.com/video-editor.html) in the past. Both are great, but I find ScreenFlow to perform better on my Mac. Both allow applying chroma filters to take advantage of the green screen, do excellent screen capture, and provide a very intuitive editing interface. I didn't figure out how to record directly from the iPad on TeleStream, so I use [AirServer](https://www.airserver.com/) to broadcast from the iPad to my Mac and just capture the window. I believe Camtasia has better support for recording directly from the iPad. 
